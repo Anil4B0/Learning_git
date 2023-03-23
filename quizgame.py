@@ -30,3 +30,4 @@ else:
 
 print("your score is" + str(score))
 print("your percentage is " + str(score/3*100))
+print("Game Ended")
